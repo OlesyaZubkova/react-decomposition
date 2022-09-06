@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-decomposition/static/css/main.caff2143.css",
+    "main.js": "/react-decomposition/static/js/main.1f4aef28.js",
+    "static/js/787.27a43ece.chunk.js": "/react-decomposition/static/js/787.27a43ece.chunk.js",
+    "index.html": "/react-decomposition/index.html",
+    "main.caff2143.css.map": "/react-decomposition/static/css/main.caff2143.css.map",
+    "main.1f4aef28.js.map": "/react-decomposition/static/js/main.1f4aef28.js.map",
+    "787.27a43ece.chunk.js.map": "/react-decomposition/static/js/787.27a43ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caff2143.css",
+    "static/js/main.1f4aef28.js"
+  ]
+}
